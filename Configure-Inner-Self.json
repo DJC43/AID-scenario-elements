@@ -1,0 +1,13 @@
+[
+  {
+    "isSpoiler": false,
+    "isPinned": false,
+    "showInStoryCards": true,
+    "keys": "inner self, configure inner self",
+    "value": "> Inner Self grants story characters the ability to learn, plan, and adapt over time. Edit the entry and notes below to control how Inner Self behaves.\n> Enable Inner Self: true\n> Show detailed guide: false\n> First name of player character: \"${character.name}\"\n> Adventure in 1st, 2nd, or 3rd person: 2nd\n> Max brain size relative to story context: 30%\n> Recent turns searched for name triggers: 5\n> Visual indicator of current NPC triggers: \"\ud83c\udfad\"\n> Thought formation chance per turn: 60%\n> Half thought chance for Do/Say/Story: true\n> Brain card notes store brains as JSON: false\n> Enable debug mode to see model tasks: false\n> Pin this config card near the top: false\n> Install Auto-Cards: false\n> Write the name(s) of your non-player characters at the very bottom of the \"notes\" section below. This is mandatory because it allows Inner Self to assemble independent minds for the correct individuals.",
+    "type": "class",
+    "title": "Configure Inner Self",
+    "description": "> Inner Self on. Auto-Cards off. Second person. Fill NPC first names below, highest trigger priority first. Player is not an NPC line.\n\n> NPC first names:\n",
+    "useForCharacterCreation": false
+  }
+]
